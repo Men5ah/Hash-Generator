@@ -1,11 +1,3 @@
-"""
-Team Members
-John Adenu-Mensah – 73812025
-Michael Addo – 54852025
-Odumma Albert-Viala – 81982025
-Bismark Bedzrah - 71622025
-"""
-
 #Importing the necessary libraries for the project
 import tkinter as tk
 from tkinter import *
